@@ -6,9 +6,6 @@ CloneMC is a recreation of Beta 1.7.3 designed to run especially on older system
 
 The project currently is designed to reproduce and basically has almost every implementations of gameplay, world behavior, visual style, menus, entities, redstone systems, and even able to load, render, and save Java worlds properly. Has Both Proper Singleplayer And Multiplayer Support In the Program
 
-<img width="958" height="500" alt="Screenshot 2026-07-14 182134" src="https://github.com/user-attachments/assets/cb79f0d6-0bb0-4fa1-877c-ee035cb43ad6" />
-
-
 CloneMC V2.0 this time also had extensive development and technical documentation for all aspects of the program
 
 Complete engine architecture
@@ -25,6 +22,8 @@ GUI systems
 Performance budgets
 Testing and debugging
 How to add new blocks, items, entities, recipes, and screens
+
+<img width="958" height="500" alt="Screenshot 2026-07-14 182134" src="https://github.com/user-attachments/assets/cb79f0d6-0bb0-4fa1-877c-ee035cb43ad6" />
 
 To Run the program: download the source code zip from the main page, and click on the exe file, there is a good test world 
 
