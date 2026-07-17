@@ -38,6 +38,9 @@ To Run the program: download the source code zip from the main page, and click o
 
 Unlike modern voxel engines, CloneMC uses entirely C and uses Open Gl 1.1 rendering which was able to get hundreds of FPS and have good performance in systems!
 
+<img width="958" height="482" alt="Screenshot 2026-07-15 183611" src="https://github.com/user-attachments/assets/ca96722a-3162-44e3-9cac-632ed30321ec" />
+
+
 Example of Implementation: World Generation includes Java-derived behavior for:
 
 Seeded deterministic generation
