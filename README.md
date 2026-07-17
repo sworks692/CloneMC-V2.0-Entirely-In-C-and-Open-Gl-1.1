@@ -1,5 +1,9 @@
 # CloneMC-V2.0-Entirely-In-C-and-Open-Gl-1.1
-CloneMC is a recreation of Beta 1.7.3 designed to run especially on older systems and hardware with just C programming and Open Gl 1.1 Rendering. All of the documentation and what files and mutations cause within each other is in the docx files. This program had much better boilerplates and C code to actually be able to achieve massive frame rates and actually look like the real deal compared to the first version. However, this was mainly a side project, and beta 1.7.3 probably was old enough to run fine on older systems and this repo may not be updated frequently. Texture and UV mapping and core boilerplates was significantly improved compared to first verion
+CloneMC is a recreation of Beta 1.7.3 designed to run especially on older systems and hardware with just C programming and Open Gl 1.1 Rendering. All of the documentation and what files and mutations cause within each other is in the docx files. This program had much better boilerplates and C code to actually be able to achieve massive frame rates and actually look like the real deal compared to the first version. However, this was mainly a side project, and beta 1.7.3 probably was old enough to run fine on older systems and this repo may not be updated frequently. Texture and UV mapping and core boilerplates was significantly improved compared to first verion.
+
+
+To run the program, click on code and download the source code zip file, extract the contents and the exe should be there to click on as well as having assets folder
+
 
 <img width="959" height="484" alt="Screenshot 2026-07-15 175633" src="https://github.com/user-attachments/assets/d742c675-1356-46f3-a832-6e696a3c0f0e" />
 
