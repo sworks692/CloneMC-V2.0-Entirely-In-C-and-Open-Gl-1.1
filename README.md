@@ -12,6 +12,8 @@ To run the program, click on code and download the source code zip file, extract
 
 <img width="959" height="484" alt="Screenshot 2026-07-15 175633" src="https://github.com/user-attachments/assets/d742c675-1356-46f3-a832-6e696a3c0f0e" />
 
+## Important, if any features want to be added like sprinting, unbreakable boats, or better UV mapping of textures like for the minecart, there is a license uploaded in the zip folder, which should go along decompiled java files of the version that can be used ina a basic chatgpt subsrcitption to give refercnes and code to add features, however at this stage, handwritten code/undertanding of the program and coversion tools can help save a lot more time and implement featueres way better/faster. 
+
 
 The project currently is designed to reproduce and basically has almost every implementations of gameplay, world behavior, visual style, menus, entities, redstone systems, and even able to load, render, and save Java worlds properly. Has Both Proper Singleplayer And Multiplayer Support In the Program
 
