@@ -3,7 +3,7 @@ CloneMC is a recreation of Beta 1.7.3 designed to run especially on older system
 
 The github repo is a bit of a mess, but could be fixed soon
 
-## Recommended to Extract Zip Folder With 7-zip and RENAME EXECUTABLE TO SOMETHING SHORTER as it may fail on some systems, it is recommended before startign the game to change the perfoamnce setting to Max FPS before creating/loading a world
+## Recommended to Extract Zip Folder With 7-zip and RENAME EXECUTABLE TO SOMETHING SHORTER as it may fail on some systems, it is recommended before starting the game to change the performance setting to Max FPS before creating/loading a world
 
 To run the program, click on code and download the source code zip file, extract the contents and the exe should be there to click on as well as having assets folder, 
 
