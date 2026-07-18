@@ -11,6 +11,8 @@ To run the program, click on code and download the source code zip file, extract
 
 The project currently is designed to reproduce and basically has almost every implementations of gameplay, world behavior, visual style, menus, entities, redstone systems, and even able to load, render, and save Java worlds properly. Has Both Proper Singleplayer And Multiplayer Support In the Program
 
+THERE WILL NOT AND SHOULD NEVER HAVE SUPPORT FOR OFFICAL MODERN MINECRAFT SERVERS, MINECRAFT ACCOUNTS, AND MORE RELATED TO AVOID COPYRIGHT ISSUES.
+
 CloneMC V2.0 this time also had extensive development and technical documentation for all aspects of the program
 
 Complete engine architecture
