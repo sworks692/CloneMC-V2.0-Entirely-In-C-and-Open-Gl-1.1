@@ -30,7 +30,7 @@ Performance budgets
 Testing and debugging
 How to add new blocks, items, entities, recipes, and screens
 
-## Important, if any features want to be added like sprinting, unbreakable boats, or better UV mapping of textures like for the minecart, there is a license uploaded in the zip folder, which should go along decompiled java files of the version that can be used in a a basic chatgpt subsrcitption to give references and code to add features, however at this stage, own code/undertanding of the program and coversion tools can help save a lot more time and implement featueres way better/faster. 
+## Important, if any features want to be added like sprinting, unbreakable boats, or better UV mapping of textures like for the minecart, there is a license uploaded in the zip folder, which should go along decompiled java files of the version that can be used in a a basic chatgpt subsrcription to give references and code to add features, however at this stage, own code/undertanding of the program and conversion tools can help save a lot more time and implement featueres way better/faster. 
 
 <img width="958" height="500" alt="Screenshot 2026-07-14 182134" src="https://github.com/user-attachments/assets/cb79f0d6-0bb0-4fa1-877c-ee035cb43ad6" />
 
