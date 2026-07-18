@@ -34,6 +34,10 @@ How to add new blocks, items, entities, recipes, and screens
 
 <img width="958" height="500" alt="Screenshot 2026-07-14 182134" src="https://github.com/user-attachments/assets/cb79f0d6-0bb0-4fa1-877c-ee035cb43ad6" />
 
+Compiling/Development Instructions If Needed: If edits in the src folder and other files needed are done, install Open Watcom V2.0 compiler, and copy the src folder, linker file, makefile.wat, and project2finalalpharecreation.c into the C:\Watcom\binnt64 direcotry or the binnt in 32 bit systems, then run wmake -f Makefile.wat and if everything goes right, it should produce an exe file in the binnt64/binnt folder where it should be placed in the same folder as where the assets folder in located. Make sure to delete the project2finalalpharecreation.obj file before starting another wmake command. 
+
+### This project is kind of just a side project really and development may not reach far as I am pretty sure Beta 1.7.3, the full java version, can work fine if not a bit better on Windows 98/2000/Xp Systems because of how old it was and even newer versions of the game to work on them, but it was still a cool project, and the documentation could help people if they want to build like an efficient CAD program which is recommended.
+
 Example of Implementation: World Generation includes Java-derived behavior for:
 
 Seeded deterministic generation
