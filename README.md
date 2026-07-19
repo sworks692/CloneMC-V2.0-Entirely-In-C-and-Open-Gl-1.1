@@ -5,6 +5,8 @@ The github repo is a bit of a mess, but could be fixed soon
 
 ## Recommended to Extract Zip Folder With 7-zip and RENAME EXECUTABLE TO SOMETHING SHORTER as it may fail on some systems, it is recommended before starting the game to change the performance setting to Max FPS before creating/loading a world
 
+## There is also currently a CloneMC V127 Experimental version where it has much better perfomance and rendering and even has built in support for creative and spectator mode, though creative mode is a bit scuffed and doesn't work properly in terms of GUI, but everything else works though so work probably needs to be done there soon. 
+
 To run the program, click on code and download the source code zip file, extract the contents and the exe should be there to click on as well as having assets folder, 
 
 <img width="959" height="484" alt="Screenshot 2026-07-15 175633" src="https://github.com/user-attachments/assets/d742c675-1356-46f3-a832-6e696a3c0f0e" />
