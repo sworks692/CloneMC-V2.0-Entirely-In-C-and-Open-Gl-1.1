@@ -7,6 +7,8 @@ The github repo is a bit of a mess, but could be fixed soon
 
 ## There is also currently a CloneMC V127 Experimental version where it has much better perfomance and rendering and even has built in support for creative and spectator mode, though creative mode is a bit scuffed and doesn't work properly in terms of GUI, but everything else works though so work probably needs to be done there soon. 
 
+## Update: CloneMC V128 Beta Finale currently has even better support for perfomance and rendering and actually even supports Windows 98/95 Systems to the point where differnt GUI code and elements in frontend were implemented specifcally for compatibility and also now has complete and working support for creative/spectator mode. 
+
 To run the program, click on code and download the source code zip file, extract the contents and the exe should be there to click on as well as having assets folder, 
 
 <img width="959" height="484" alt="Screenshot 2026-07-15 175633" src="https://github.com/user-attachments/assets/d742c675-1356-46f3-a832-6e696a3c0f0e" />
