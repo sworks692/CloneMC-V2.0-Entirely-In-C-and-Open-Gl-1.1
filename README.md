@@ -15,6 +15,15 @@ The project currently is designed to reproduce and basically has almost every im
 
 THERE WILL NOT AND SHOULD NEVER HAVE SUPPORT FOR OFFICAL MODERN MINECRAFT SERVERS, MINECRAFT ACCOUNTS, AND MORE RELATED TO AVOID COPYRIGHT ISSUES.
 
+## Perfomance Design And Rendering Graph: 
+
+<img width="348" height="327" alt="Screenshot 2026-07-25 195648" src="https://github.com/user-attachments/assets/0db691fd-ee00-4181-a50e-d0b788b6aee3" />
+
+## Memory Management Graph, if gets too low:
+
+<img width="794" height="341" alt="Screenshot 2026-07-25 215055" src="https://github.com/user-attachments/assets/0b4d8d5f-52c8-49c3-a58a-307a653e7fe3" />
+
+
 CloneMC V2.0 this time also had extensive development and technical documentation for all aspects of the program
 
 Complete engine architecture
