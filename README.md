@@ -5,9 +5,7 @@ The github repo is a bit of a mess, but could be fixed soon
 
 ## Recommended to Extract Zip Folder With 7-zip and RENAME EXECUTABLE TO SOMETHING SHORTER as it may fail on some systems, it is recommended before starting the game to change the performance setting to Max FPS before creating/loading a world
 
-## There is also currently a CloneMC V127 Experimental version where it has much better perfomance and rendering and even has built in support for creative and spectator mode, though creative mode is a bit scuffed and doesn't work properly in terms of GUI, but everything else works though so work probably needs to be done there soon. 
-
-## Update: CloneMC V128 Beta Finale currently has even better support for perfomance and rendering and actually even supports Windows 98/95 Systems to the point where different GUI code and elements in frontend were implemented specifcally for compatibility and also now has complete and working support for creative/spectator mode. 
+## Update: CloneMC V132.4 V2 Beta Finale has even better support for perfomance and rendering and actually even supports Windows 98/95 Systems to the point where different GUI code and elements in frontend were implemented specifcally for compatibility and also now has complete and working support for creative/spectator mode. There is even a toggle button for sprinting in singleplayer worlds, and the newer implementations of tool durability and breaking of stone/wooden stairs, slabs, and more. 
 
 To run the program, click on code and download the source code zip file, extract the contents and the exe should be there to click on as well as having assets folder, 
 
@@ -34,7 +32,7 @@ Performance budgets
 Testing and debugging
 How to add new blocks, items, entities, recipes, and screens
 
-## Important, if any features want to be added like sprinting, unbreakable boats, or better UV mapping of textures like for the minecart, there is a license uploaded in the zip folder, which should go along decompiled java files of the version that can be used in a a basic chatgpt subsrcription to give references and code to add features, however at this stage, own code/undertanding of the program and conversion tools can help save a lot more time and implement featueres way better/faster. 
+## Important, if any features want to be added like unbreakable boats, or better UV mapping of textures like for the piston, there is a license uploaded in the zip folder, which should go along decompiled java files of the version that can be used in a a basic chatgpt subsrcription to give references and code to add features, however at this stage, own code/undertanding of the program and conversion tools can help save a lot more time and implement featueres way better/faster. 
 
 <img width="958" height="500" alt="Screenshot 2026-07-14 182134" src="https://github.com/user-attachments/assets/cb79f0d6-0bb0-4fa1-877c-ee035cb43ad6" />
 
