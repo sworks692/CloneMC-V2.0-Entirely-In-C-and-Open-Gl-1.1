@@ -67,5 +67,6 @@ Terrain generation is isolated from rendering. Visibility checks and terrain dra
 
 <img width="958" height="482" alt="Screenshot 2026-07-15 183611" src="https://github.com/user-attachments/assets/ca96722a-3162-44e3-9cac-632ed30321ec" />
 
-Made By: Saicharan Dasari
+
+## Made By: Saicharan Dasari
 
