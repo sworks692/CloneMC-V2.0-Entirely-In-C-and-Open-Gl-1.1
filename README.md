@@ -5,7 +5,7 @@ The github repo is a bit of a mess, but could be fixed soon
 
 ## Recommended to Extract Zip Folder With 7-zip and RENAME EXECUTABLE TO SOMETHING SHORTER as it may fail on some systems, it is recommended before starting the game to change the performance setting to Max FPS before creating/loading a world
 
-## Update: CloneMC V132.4 V2 Beta Finale has even better support for perfomance and rendering and actually even supports Windows 98/95 Systems to the point where different GUI code and elements in frontend were implemented specifcally for compatibility and also now has complete and working support for creative/spectator mode. There is even a toggle button for sprinting in singleplayer worlds, and the newer implementations of tool durability and breaking of stone/wooden stairs, slabs, and more. 
+## Update: CloneMC V135 Beta V3 has one of the best performance and optimizations every developed currently to still have support for windows 95/98 systems. Many newer features/blocks/items were also added such as iron bars, enchanting tables, xp, potions, nether fortresses, and so many more while being faithful to beta 1.7.3 gameplay and having the same requirements as the last version. There is even a toggle button for sprinting in singleplayer worlds, and the newer implementations of tool durability and breaking of stone/wooden stairs, slabs, and more. In the V5 version, there is better implementations better texture uv mapping, villages, textures, potions, old end dimension, and more were added. 
 
 <img width="959" height="484" alt="Screenshot 2026-07-15 175633" src="https://github.com/user-attachments/assets/d742c675-1356-46f3-a832-6e696a3c0f0e" />
 
