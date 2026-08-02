@@ -7,6 +7,8 @@ The github repo is a bit of a mess, but could be fixed soon
 
 ## Update: CloneMC V132.4 V2 Beta Finale has even better support for perfomance and rendering and actually even supports Windows 98/95 Systems to the point where different GUI code and elements in frontend were implemented specifcally for compatibility and also now has complete and working support for creative/spectator mode. There is even a toggle button for sprinting in singleplayer worlds, and the newer implementations of tool durability and breaking of stone/wooden stairs, slabs, and more. 
 
+In the beginning of the project, I used a tool that changed the extension of the files from .java to .c which deleted all of its main data while leaving a bunch of its own junk metadata for some reason. Then over time using the initial java files from beta 1.7.3 and even release 1.2 which was made and implemented using ONLY CLEAN ROOM IMPLEMENTATIONS AND REVERSE ENGINEERING, IT WAS ABLE TO GET THIS FAR. A COMPLETE PORT OF A JAVA FILE TO C FILES WAS LABELED AS DIRECT C89 PORT OF A JAVA FILE AND THE MANY METADATA FILES KEPT THE JUNK METADATA, EVEN IF THERE WAS SOME IMPLEMENTED CODE WRITTEN. 
+
 To run the program, click on code and download the source code zip file, extract the contents and the exe should be there to click on as well as having assets folder, 
 
 <img width="959" height="484" alt="Screenshot 2026-07-15 175633" src="https://github.com/user-attachments/assets/d742c675-1356-46f3-a832-6e696a3c0f0e" />
@@ -65,4 +67,5 @@ Terrain generation is isolated from rendering. Visibility checks and terrain dra
 
 <img width="958" height="482" alt="Screenshot 2026-07-15 183611" src="https://github.com/user-attachments/assets/ca96722a-3162-44e3-9cac-632ed30321ec" />
 
+Made By: Saicharan Dasari
 
