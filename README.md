@@ -43,8 +43,6 @@ Performance budgets
 Testing and debugging
 How to add new blocks, items, entities, recipes, and screens
 
-## Important, if any features want to be added like unbreakable boats, or better UV mapping of textures like for the piston, there is a license uploaded in the zip folder, which should go along decompiled java files of the version that can be used in a a basic chatgpt subsrcription to give references and code to add features, however at this stage, own code/undertanding of the program and conversion tools can help save a lot more time and implement featueres way better/faster. 
-
 <img width="958" height="500" alt="Screenshot 2026-07-14 182134" src="https://github.com/user-attachments/assets/cb79f0d6-0bb0-4fa1-877c-ee035cb43ad6" />
 
 Compiling/Development Instructions If Needed: If edits in the src folder and other files needed are done, install Open Watcom V2.0 compiler, and copy the src folder, linker file, makefile.wat, and project2finalalpharecreation.c, and from C:\Watcom, run owsetenv.bat which is curucial for activating build enviornment, then copy files into the C:\Watcom\binnt64 directory or the binnt in 32 bit systems then run wmake -f Makefile.wat and if everything goes right, it should produce an exe file in the binnt64/binnt folder where it should be placed in the same folder as where the assets folder in located. Make sure to delete the project2finalalpharecreation.obj file before starting another wmake command. 
